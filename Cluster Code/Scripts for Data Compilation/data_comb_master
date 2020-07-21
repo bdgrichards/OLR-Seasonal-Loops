@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sbatch comb_sbatch
+
+squeue -u benr19 -i1
