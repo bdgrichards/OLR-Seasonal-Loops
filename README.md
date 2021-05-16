@@ -4,6 +4,10 @@
 
 This repository provides code to reproduce the figures and values found in the project of the same name. 
 
+### To cite this repository, see the corresponding Zenodo archive
+
+[![DOI](https://zenodo.org/badge/279544481.svg)](https://zenodo.org/badge/latestdoi/279544481)
+
 ### The interactive OLR loop viewer can be found [here](https://bdgrichards.github.io/OLR-Loop-Viewer/)
 
 The project included both simple data analysis using Python Jupyter Notebooks and extensive offline calculations, also in Python, primarily using the [CLIMLAB](https://pypi.org/project/climlab/) package on a SLURM high performance computing cluster. The core Python scripts used on the cluster have been included in the Cluster Code directory.
